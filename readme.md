@@ -14,7 +14,7 @@
 - 💼 Currently building full-stack web apps and exploring AI/LLM-powered applications
 - 🚀 Actively looking for opportunities as a **Full Stack / MERN Developer** and **AI Application Developer**
 - 🌱 Currently learning: Retrieval-Augmented Generation (RAG), AI Agents, n8n automation, Vector Databases
-- 📫 Reach me at: **vclubxaxino@gmail.com**
+- 📫 Reach me at: **priyanshuvaishnav0606@gmail.com**
 
 ---
 
