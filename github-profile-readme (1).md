@@ -1,0 +1,20 @@
+### Hi, I'm Priyanshu Vaishnav 👋
+
+MERN Stack Developer from Durg-Bhilai, Chhattisgarh, building full-stack web apps and AI-powered tools.
+
+**Tech Stack**
+- **Frontend:** React, Vite, Tailwind, React Context API
+- **Backend:** Node.js, Express, REST APIs, JWT Auth
+- **Database:** MongoDB, PostgreSQL (Supabase)
+- **AI/LLM:** Google Gemini API, RAG, Function Calling, Zod validation
+- **Other:** Socket.IO, Razorpay, Cloudinary, Nodemailer
+
+**What I've Built**
+- 🤖 AI Interview Analyser — Gemini-powered analysis tool with structured JSON outputs
+- 🎉 DecorHub — Decoration booking platform with real-time chat, payments & admin analytics
+- 🏦 Banking System — Double-entry ledger with atomic transactions & secure auth
+- 🎵 Music Player — Role-based content app with image uploads
+
+Currently exploring AI agents, RAG pipelines, and automation tools (n8n) — open to full-time MERN/AI developer roles.
+
+📫 Reach me: vclubxaxino@gmail.com
